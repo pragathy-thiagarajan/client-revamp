@@ -1,0 +1,6 @@
+{
+  "name": "EforEvent - Event Management Platform",
+  "description": "Comprehensive event booking, ticketing, organizer dashboard, and administrative management portal.",
+  "permissions": [],
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
